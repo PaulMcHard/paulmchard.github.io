@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paulmchards.github.io/sitemap.xml
+Sitemap: https://paulmchard.github.io/sitemap.xml
